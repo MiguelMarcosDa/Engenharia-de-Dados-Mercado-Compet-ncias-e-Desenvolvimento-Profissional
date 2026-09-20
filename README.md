@@ -162,18 +162,18 @@ Fonte: CTAIO — Salário Engenheiro de Dados no Brasil (2026).
 
 **Hard Skills:**
 
+* Formação acadêmica em Ciência da Computação, Engenharia de Software, Análise de Sistemas ou áreas afins.
+* Conhecimentos sólidos em tecnologias e ferramentas de processamento de dados, como SQL, Python entre outras.
+* Experiência em modelagem de dados.
+* Conhecimentos em nuvem AWS, Azure, Big Data, Pipeline dado
+
+**Soft Skills:**
+
 * Construção e manutenção de pipelines de dados;
 * Realizar limpeza e padronização dos dados;
 * Trabalhar com banco de dados;
 * Monitorar a qualidade dos dados;
 * Apoio a boas práticas de governança e segurança.
-
-**Soft Skills:**
-
-* Formação acadêmica em Ciência da Computação, Engenharia de Software, Análise de Sistemas ou áreas afins.
-* Conhecimentos sólidos em tecnologias e ferramentas de processamento de dados, como SQL, Python entre outras.
-* Experiência em modelagem de dados.
-* Conhecimentos em nuvem AWS, Azure, Big Data, Pipeline dado
 
 ---
 
