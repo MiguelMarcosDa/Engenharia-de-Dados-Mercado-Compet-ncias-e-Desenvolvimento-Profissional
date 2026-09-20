@@ -398,25 +398,32 @@ O plano de carreira tem como objetivo estabelecer metas profissionais para o des
 
 O Plano de Desenvolvimento Individual (PDI) apresenta ações e metas para desenvolver as competências necessárias para alcançar o objetivo profissional de atuar na área de Engenharia de Dados.
 
-|     Objetivo     |    Ação     |   Prazo    |    Indicador de Progresso     |
-|------------------------------------|------------------|-------------------------|----------------------------------|
-| Aprofundar conhecimentos em Python | Realizar cursos e desenvolver projetos práticos utilizando Python | 6 meses | Concluir pelo menos 2 projetos em Python |
+## 10.1 Desenvolvimento Técnico
 
+| Objetivo | Ação | Prazo | Indicador de Progresso |
+|---|---|---|---|
+| Aprofundar conhecimentos em Python | Realizar cursos e desenvolver projetos práticos | 6 meses | Concluir pelo menos 2 projetos em Python |
 | Aprender SQL | Estudar consultas, filtros, relacionamentos e manipulação de dados | 6 meses | Desenvolver pelo menos 1 projeto utilizando SQL |
-
 | Aprender bancos de dados | Estudar conceitos de bancos relacionais e realizar atividades práticas | 6 a 12 meses | Criar e utilizar um banco de dados em um projeto |
+| Desenvolver conhecimentos em Engenharia de Dados | Estudar ETL, pipelines e processamento de dados | 12 meses | Desenvolver pelo menos 1 projeto relacionado à Engenharia de Dados |
+| Aprender Cloud | Iniciar estudos sobre computação em nuvem e plataformas como AWS e Azure | 12 meses | Concluir pelo menos 1 curso sobre Cloud |
 
-| Desenvolver conhecimentos em Engenharia de Dados | Estudar conceitos de ETL, pipelines e processamento de dados | 12 meses | Desenvolver pelo menos 1 projeto relacionado à Engenharia de Dados |
+## 10.2 Desenvolvimento Profissional
 
-| Melhorar o GitHub | Organizar os repositórios e publicar projetos acadêmicos e pessoais | 6 meses | Ter projetos organizados e documentados no GitHub |
+| Objetivo | Ação | Prazo | Indicador de Progresso |
+|---|---|---|---|
+| Melhorar o GitHub | Organizar os repositórios e documentar os projetos | 6 meses | Ter os principais projetos organizados e documentados |
+| Melhorar o LinkedIn | Atualizar o perfil e compartilhar conteúdos relacionados à tecnologia | 6 meses | Manter o perfil profissional atualizado |
+| Buscar estágio | Preparar currículo, LinkedIn e GitHub e candidatar-se a vagas | 6 a 12 meses | Participar de processos seletivos |
+| Desenvolver habilidades profissionais | Melhorar comunicação, trabalho em equipe e resolução de problemas | Contínuo | Participar de projetos acadêmicos e profissionais |
 
-| Melhorar o LinkedIn | Atualizar o perfil e compartilhar conteúdos relacionados à área de tecnologia | 6 meses | Perfil atualizado e realização de publicações relacionadas aos estudos |
+## 10.3 Formação e Especialização
 
-| Buscar estágio | Preparar currículo, LinkedIn e GitHub e candidatar-se a vagas | 6 a 12 meses | Realizar candidaturas regularmente e participar de processos seletivos |
-
-| Desenvolver habilidades profissionais | Melhorar comunicação, trabalho em equipe e resolução de problemas | Contínuo | Participação em projetos acadêmicos e profissionais |
-
-| Fazer pós-graduação em Engenharia de Software | Concluir a graduação e posteriormente buscar uma pós-graduação na área | 3 a 5 anos ou mais | Iniciar e concluir uma pós-graduação em Engenharia de Software |
+| Objetivo | Ação | Prazo | Indicador de Progresso |
+|---|---|---|---|
+| Concluir a graduação em ADS | Manter os estudos e cumprir as atividades acadêmicas | 3 anos | Concluir a graduação |
+| Atuar como Engenheiro de Dados Júnior | Desenvolver competências técnicas e buscar experiência profissional | 1 a 3 anos | Conseguir uma oportunidade na área |
+| Fazer pós-graduação em Engenharia de Software | Concluir a graduação e posteriormente realizar uma pós-graduação | 3 a 5 anos ou mais | Iniciar ou concluir uma pós-graduação |
 
 ---
 
