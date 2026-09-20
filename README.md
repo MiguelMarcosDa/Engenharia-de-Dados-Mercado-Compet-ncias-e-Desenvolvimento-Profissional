@@ -70,7 +70,6 @@ Fonte: CTAIO — Salário Engenheiro de Dados no Brasil (2026).
 * **Salário:Faixa salarial de R$ 6.500,00 a R$ 7.500,00**
 * **Link da vaga:https://www.linkedin.com/jobs/view/4454237055/**
 
-### Requisitos
 
 **Hard Skills**
 
@@ -104,7 +103,7 @@ Fonte: CTAIO — Salário Engenheiro de Dados no Brasil (2026).
 
 ### Requisitos
 
-**Hard Skills:**
+**Hard Skills**
 
 * Formação superior completa ou cursando em Tecnologia da Informação, Ciência da Computação, Engenharia de Dados, Sistemas de Informação ou áreas correlatas;
 
