@@ -504,7 +504,7 @@ A longo prazo, pretendo consolidar minha carreira como Engenheiro de Dados e rea
 
 # 14. Conclusão Geral do Grupo
 
-> **Essa parte será feita em conjunto pelos 5 integrantes.**
+> *
 
 
 ## 14.1 Síntese dos Planos de Carreira
@@ -571,7 +571,7 @@ Com base nos principais gaps identificados, o grupo definiu ações para desenvo
 
 ---
 
-# Referências
+# FONTES
 
 * [Brasscom — Demanda de Talentos em TIC e Estratégia ΣTCEM](https://brasscom.org.br/wp-content/uploads/2021/12/BRI2-2021-007-01-Demanda-de-Talentos-em-TIC-e-Sigma-TCEM-v117.pdf)
 * [Robert Half — Guia Salarial 2026: Tecnologia](https://www.roberthalf.com/br/pt/insights/guia-salarial/tecnologia)
