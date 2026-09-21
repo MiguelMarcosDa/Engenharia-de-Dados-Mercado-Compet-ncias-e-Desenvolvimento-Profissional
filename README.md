@@ -4,6 +4,7 @@
 
 * Miguel Marcos Da Silva Gonçalves
 * Kayk Alberto Santana Ferreira
+* Maria Clara Farias Coelho
 
 ---
 
@@ -610,14 +611,132 @@ O Plano de Desenvolvimento Individual tem como objetivo organizar as principais 
 | Aprofundar Engenharia de Dados | Estudar ferramentas, tecnologias e práticas utilizadas no mercado | 1 a 3 anos |
 | Buscar especialização | Realizar cursos e formações complementares na área de dados | 3 a 5 anos ou mais |
 
+---
+
+#  Análise Individual — Maria Clara Farias Coelho
+
+##  Informações Profissionais
+
+- **Curso:** Análise de Desenvolvimento de Sistemas (ADS)
+- **Semestre:** Segundo
+- **Área escolhida:** Engenharia de Dados
+- **Cargo desejado:** Engenheira de Dados Júnior
+- **Nível atual:** Estudante de ADS — 2º semestre, em formação para atuar na área de Engenharia de Dados, em transição de carreira da área financeira para tecnologia.
+
+##  Análise do GitHub
+
+**Perfil:** [mariaclarafarias1806-web](https://github.com/mariaclarafarias1806-web)
+
+- **Nome de usuário:** `mariaclarafarias1806-web`
+- **Biografia:** "🎓 Estudante de ADS 💻 Explorando o mundo Front-end Aprendendo algo novo todo dia."
+- **README.md:** Não possui README de perfil.
+
+### Repositórios Públicos
+
+- **Quantidade:** 2 repositórios públicos.
+- **Repositórios fixados:** Nenhum repositório fixado no momento.
+- **Repositório com mais estrelas:** Possui 2 estrelas em cada repositório.
+- **Principais projetos:** Perfil em fase inicial de construção de projetos.
+
+### Seguidores e Engajamento
+
+- **Quantidade de seguidores:** 23 seguidores.
+- **Evolução dos seguidores:** Evolução positiva, com bom número de seguidores para perfil iniciante.
+- **Engajamento da comunidade:** Os projetos possuem estrelas, demonstrando interesse inicial da comunidade.
+
+### Análise
+
+O GitHub é utilizado como espaço inicial para aprendizado e apresentação de projetos relacionados à tecnologia. O perfil possui dois repositórios públicos e está em fase de desenvolvimento.
+
+Apesar de ainda não possuir repositórios fixados, o perfil já demonstra engajamento com 23 seguidores e estrelas nos projetos.
+
+Como ponto de desenvolvimento profissional, o perfil pode ser aprimorado com:
+
+- Criação de um README de perfil;
+- Fixação dos principais repositórios;
+- Desenvolvimento de novos projetos;
+- Criação de projetos relacionados à Engenharia de Dados;
+- Estudos e projetos utilizando Python, SQL, bancos de dados e pipelines de dados;
+- Continuidade dos projetos de Front-end já explorados.
+
+##  Análise do LinkedIn
+
+**Perfil:** [Maria Clara](https://www.linkedin.com/in/maria-clara-0b618135b)
+
+### Cargo e Área Desejada
+
+- **Cargo desejado:** Engenheira de Dados Júnior
+- **Área:** Engenharia de Dados
+- **Nível:** Júnior
+- **Tecnologias/conhecimentos:** Python (em aprendizado), Front-end, HTML, CSS, Git e GitHub
+
+### Headline Profissional
+
+**Headline atual:**
+
+> Estudante de Análise e Desenvolvimento de Sistemas (ADS) | Analista Financeira | Em transição para a área de Tecnologia
+
+### Análise da Headline
+
+- **Deixa claro o objetivo profissional?** Sim, parcialmente. Informa a formação em ADS e a transição para a área de tecnologia, além da experiência anterior na área financeira.
+- **Possui palavras-chave relacionadas à área?** Sim. Possui "Análise e Desenvolvimento de Sistemas", "ADS" e "Tecnologia", além de destacar a experiência como Analista Financeira.
+- **Está alinhada ao mercado?** Sim. Apresenta a formação acadêmica e a transição de carreira. Poderia ser aprimorada com palavras-chave específicas de Engenharia de Dados, como Python, SQL e Dados.
+
+### Análise
+
+A headline apresenta de forma clara a transição de carreira e a formação atual. A experiência na área financeira pode contribuir para a atuação em Engenharia de Dados, principalmente por envolver análise, números e organização.
+
+Uma futura atualização poderia incluir termos como:
+
+**Engenharia de Dados | Python | SQL | Em busca de estágio**
+
+### Crescimento da Rede
+
+- **Número de conexões:** 40 conexões.
+- **Evolução da rede:** Em desenvolvimento inicial.
+
+### Atividade e Engajamento
+
+- **Quantidade de publicações:** Nenhuma publicação até o momento.
+- **Frequência:** Perfil ainda sem publicações.
+- **Comentários:** Baixa frequência.
+- **Engajamento:** Ainda em desenvolvimento.
+
+Existe oportunidade para começar a compartilhar aprendizados relacionados à transição de carreira, estudos e desenvolvimento profissional.
+
+#  Análise do Instagram
+
+**Perfil:** [@_.claramaiaa](https://www.instagram.com/_.claramaiaa)
+
+## Posicionamento Profissional
+
+- **Bio:** `Be loyal to yourself 🧘🏻‍♀️⚡💗`
+- **Seguidores:** 1.108 seguidores.
+- **Tipo de conteúdo:** Fotos em família, fotos pessoais e frases.
+- **Conteúdo relacionado à tecnologia:** Ainda não possui conteúdo frequente relacionado à tecnologia.
+- **Alinhamento com Engenharia de Dados:** O perfil possui um alcance pessoal significativo, mas atualmente é voltado principalmente para uso pessoal.
+
+### Análise
+
+O perfil apresenta um bom alcance pessoal, com mais de mil seguidores. No entanto, atualmente o conteúdo é voltado para a vida pessoal, família, fotos e frases, sem foco profissional em tecnologia.
+
+Para fortalecer o posicionamento profissional, poderia começar a compartilhar nos stories ou em publicações ocasionais a rotina de estudos, projetos de Front-end e aprendizados em Python e Engenharia de Dados.
+
+Outra possibilidade seria criar uma segunda conta destinada especificamente ao conteúdo profissional.
+
+#  Outras Redes e Portfólios
+
+No momento, não possui Dev.to ou outras redes profissionais informadas.
+
+O GitHub permanece como uma das principais plataformas para apresentação de projetos técnicos. Conforme a evolução na área de Engenharia de Dados, outras plataformas profissionais poderão ser utilizadas para ampliar o portfólio e a presença profissional.
 
 ---
 
 # 11. Feedback dos Colegas
 
-## Miguel Feedback
+## Miguel Feedback Para Seus Colegas
 
-**Nome:** Kayk
+**Nome:** Kayk Alberto
 
 **Pontos positivos:**
 
@@ -633,27 +752,28 @@ O Plano de Desenvolvimento Individual tem como objetivo organizar as principais 
 * Continuar estudando Python, SQL e Banco de Dados e começar a criar projetos para o GitHub.
 ---
 
-## Feedback do Integrante 2
+## Segundo Feedback
 
-**Nome:**
+**Nome:** Maria Clara
 
 **Pontos positivos:**
 
-*
+* Demonstra dedicação aos estudos e interesse em fazer uma transição para a área de tecnologia.
+* Possui experiência na área financeira, que pode contribuir para o desenvolvimento da capacidade analítica.
 
 **Pontos que podem ser melhorados:**
 
-*
+* Aumentar a frequência de publicações profissionais e desenvolver mais projetos relacionados à Engenharia de Dados.
 
 **Sugestões:**
 
-*
+* Continuar estudando Python, iniciar os estudos em SQL e criar projetos para fortalecer o GitHub e o LinkedIn.
 
 ---
 
-## Kayk Feedback
+## Kayk Alberto Feedback Para Seus Colegas
 
-**Nome:Miguel**
+**Nome:Miguel Marcos**
 
 **Pontos positivos:**
 
@@ -673,6 +793,59 @@ O estudo de SQL precisa de mais prioridade no PDI, pois é uma competência fund
 *Construir um projeto de ETL do zero no GitHub, cobrindo a coleta de dados, tratamento em Python e armazenamento em um banco relacional como PostgreSQL ou SQLite.
 Atualizar a manchete do LinkedIn com termos da área e criar um README.md no perfil do GitHub destacando os estudos atuais em dados.
 Priorizar o aprendizado avançado em SQL nos próximos meses, focando em consultas relacionais, agrupamentos e modelagem.
+---
+### Segundo Feedback
+**nome:** Maria Clara
+
+**Pontos positivos:**
+
+- Demonstra maturidade na transição da área financeira para tecnologia.
+- Possui um PDI bem organizado e objetivos claros.
+
+**Pontos que podem ser melhorados:**
+
+- Alinhar o GitHub e LinkedIn com o objetivo de atuar em Engenharia de Dados.
+- Desenvolver mais projetos e estabelecer metas com prazos definidos.
+
+**Sugestões:**
+
+- Destacar Python, SQL e Engenharia de Dados nos perfis profissionais.
+- Criar projetos práticos relacionados à área e manter o LinkedIn ativo.
+
+---
+
+Maria Clara Feedback Para Seus Colegas
+
+**Nome:kayk Alberto **
+
+*Pontos positivos:*
+- Plano de carreira claro e realista, com foco em estágio.
+- Organização e comprometimento no PDI.
+
+*Pontos que podem ser melhorados:*
+- GitHub sem repositórios, dificulta mostrar as habilidades.
+- LinkedIn pouco movimentado.
+
+*Sugestões:*
+- Criar 3 primeiros repos com README.
+- Postar no LinkedIn sobre os estudos de Python/SQL.
+
+---
+*Segundo Feedback
+
+**Nome:Miguel Marcos**
+
+*Pontos positivos:*
+- GitHub ativo com 4 repos e projeto barbershop-ia em destaque.
+- Plano de carreira claro e coerente com Engenharia de Dados.
+
+*Pontos que podem ser melhorados:*
+- Headline do LinkedIn pouco direcionada pra área de dados.
+- Falta de README de perfil no GitHub.
+
+*Sugestões:*
+- Atualizar headline com: Engenharia de Dados | Python | SQL.
+- Criar README principal no GitHub e melhorar a documentação dos projetos.
 
 ---
 # 12. Análise dos Gaps
