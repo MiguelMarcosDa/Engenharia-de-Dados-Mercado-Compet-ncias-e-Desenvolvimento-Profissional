@@ -425,6 +425,191 @@ O Plano de Desenvolvimento Individual (PDI) apresenta ações e metas para desen
 | Concluir a graduação em ADS | Manter os estudos e cumprir as atividades acadêmicas | 3 anos | Concluir a graduação |
 | Atuar como Engenheiro de Dados Júnior | Desenvolver competências técnicas e buscar experiência profissional | 1 a 3 anos | Conseguir uma oportunidade na área |
 | Fazer pós-graduação em Engenharia de Software | Concluir a graduação e posteriormente realizar uma pós-graduação | 3 a 5 anos ou mais | Iniciar ou concluir uma pós-graduação |
+---
+#  Análise Individual — Kayk Santana
+
+##  Informações Profissionais
+
+- **Nome:** Kayk Santana
+- **Curso:** Análise e Desenvolvimento de Sistemas (ADS)
+- **Semestre:** Em andamento
+- **Área escolhida:** Engenharia de Dados
+- **Cargo desejado:** Estágio em Tecnologia / Engenharia de Dados
+- **Nível atual:** Estudante de ADS — nível iniciante, construindo conhecimentos técnicos e profissionais para ingressar no mercado de tecnologia.
+
+##  Análise do GitHub
+
+**Perfil:** [Kayk Santana](https://github.com/kayksantanaf)
+
+- **Nome de usuário:** `kayksantanaf`
+- **Seguidores:** 3
+- **Seguindo:** 11
+- **Repositórios públicos:** 0
+
+O GitHub de Kayk está em fase inicial de construção e representa um espaço que poderá ser utilizado para apresentar sua evolução durante a graduação em Análise e Desenvolvimento de Sistemas.
+
+Atualmente, os principais conhecimentos informados são Python, Excel e GitHub, que servem como base para o desenvolvimento de novas competências relacionadas à Engenharia de Dados.
+
+### Pontos a desenvolver
+
+- Criar e publicar os primeiros repositórios públicos;
+- Desenvolver projetos utilizando Python;
+- Iniciar projetos relacionados a SQL e bancos de dados;
+- Criar README.md explicando os projetos;
+- Organizar os repositórios de maneira profissional;
+- Utilizar commits para demonstrar evolução;
+- Construir um portfólio relacionado à área de dados.
+
+##  Análise do LinkedIn
+
+**Perfil:** [Kayk Santana](https://www.linkedin.com/in/kayk-santana-09b970405/)
+
+O LinkedIn será utilizado como uma das principais ferramentas para construir presença profissional e buscar oportunidades de estágio na área de tecnologia.
+
+O objetivo é apresentar Kayk como estudante de ADS interessado em Engenharia de Dados, destacando conhecimentos em Python, Excel e GitHub e, ao longo da graduação, acrescentando novas tecnologias relacionadas ao tratamento, armazenamento e processamento de dados.
+
+### Pontos de desenvolvimento
+
+- Manter informações acadêmicas atualizadas;
+- Destacar o interesse profissional em Engenharia de Dados;
+- Adicionar conhecimentos e tecnologias conforme forem desenvolvidos;
+- Inserir cursos e certificações concluídos;
+- Compartilhar projetos acadêmicos e pessoais;
+- Aumentar gradualmente a rede de contatos profissionais;
+- Acompanhar empresas e profissionais da área de dados;
+- Utilizar a plataforma para procurar oportunidades de estágio.
+
+##  Análise do Instagram
+
+**Usuário:** [@kayksantanaa](https://www.instagram.com/kayksantanaa/)
+
+O Instagram é utilizado principalmente como rede social pessoal. Apesar disso, a plataforma também pode contribuir para a construção da imagem profissional, principalmente por meio da organização do perfil e da separação entre conteúdos pessoais e profissionais.
+
+Como estratégia de desenvolvimento profissional, Kayk poderá utilizar a rede para acompanhar conteúdos relacionados à tecnologia, programação, dados e mercado de trabalho.
+
+## Outras Redes e Portfólios
+
+No momento, o principal canal profissional utilizado para apresentação de projetos técnicos é o GitHub.
+
+A prioridade será fortalecer essa plataforma antes de ampliar a quantidade de redes profissionais. Conforme a evolução na área de Engenharia de Dados, poderão ser adicionados outros canais, como plataformas voltadas para publicação de projetos e conteúdos técnicos.
+
+##  Projetos Desenvolvidos
+
+Atualmente, Kayk encontra-se em uma etapa inicial de construção de portfólio. O foco será transformar os conhecimentos adquiridos durante a graduação em projetos que possam ser publicados no GitHub.
+
+### Projetos planejados
+
+**Projeto 1 — Python**
+
+Desenvolvimento de um projeto utilizando Python para praticar lógica de programação, manipulação de dados e organização de código.
+
+**Projeto 2 — SQL e Banco de Dados**
+
+Criação de um projeto utilizando banco de dados e consultas SQL, trabalhando conceitos como tabelas, relacionamentos, filtros e manipulação de informações.
+
+**Projeto 3 — Engenharia de Dados**
+
+Desenvolvimento de um projeto introdutório relacionado à Engenharia de Dados, envolvendo coleta, organização, transformação e armazenamento de dados.
+
+Esses projetos deverão ser adicionados gradualmente ao GitHub, acompanhados de documentação para facilitar a compreensão das tecnologias utilizadas e dos objetivos de cada trabalho.
+
+##  Cursos e Certificações
+
+| Formação | Situação |
+|---|---|
+| Análise e Desenvolvimento de Sistemas | Em andamento |
+| Python | Conhecimento em desenvolvimento |
+| Excel | Conhecimento atual |
+| GitHub | Conhecimento atual |
+| SQL | A desenvolver |
+| Banco de Dados | A desenvolver |
+| Engenharia de Dados | A desenvolver |
+| Cloud Computing | A desenvolver |
+
+A prioridade será buscar cursos que contribuam diretamente para a preparação para o estágio e, posteriormente, para a atuação profissional em Engenharia de Dados.
+
+##  Plano de Carreira
+
+### Curto Prazo — 6 a 12 meses
+
+Durante os próximos 6 a 12 meses, o objetivo principal será construir uma base técnica suficiente para buscar a primeira oportunidade de estágio em tecnologia.
+
+- Aperfeiçoar os conhecimentos em Python;
+- Iniciar estudos de SQL;
+- Aprender fundamentos de bancos de dados;
+- Desenvolver conhecimentos básicos de Engenharia de Dados;
+- Criar os primeiros projetos para o GitHub;
+- Melhorar a organização do perfil no GitHub;
+- Estruturar o LinkedIn de acordo com o objetivo profissional;
+- Começar a buscar oportunidades de estágio;
+- Desenvolver conhecimentos relacionados a tratamento e organização de dados;
+- Continuar a graduação em ADS;
+- Utilizar o Excel como conhecimento complementar.
+
+### Médio Prazo — 1 a 3 anos
+
+- Continuar a formação em ADS;
+- Conseguir uma oportunidade de estágio em tecnologia;
+- Desenvolver experiência prática;
+- Aprofundar conhecimentos em Python e SQL;
+- Evoluir os conhecimentos em bancos de dados;
+- Aprender conceitos de ETL e ELT;
+- Desenvolver conhecimentos sobre pipelines de dados;
+- Conhecer ferramentas utilizadas no mercado de Engenharia de Dados;
+- Desenvolver projetos mais completos;
+- Construir um portfólio técnico consistente;
+- Evoluir profissionalmente dentro da área de dados.
+
+### Longo Prazo — 3 a 5 anos ou mais
+
+- Trabalhar profissionalmente com Engenharia de Dados;
+- Aprofundar conhecimentos em processamento e arquitetura de dados;
+- Desenvolver conhecimentos em Cloud Computing;
+- Trabalhar com projetos de maior complexidade;
+- Conhecer novas tecnologias utilizadas no mercado;
+- Buscar uma especialização dentro da área de dados;
+- Assumir responsabilidades maiores em projetos;
+- Continuar desenvolvendo competências técnicas e profissionais;
+- Construir uma trajetória profissional sólida na área de tecnologia.
+
+#  Plano de Desenvolvimento Individual — PDI
+
+O Plano de Desenvolvimento Individual tem como objetivo organizar as principais competências que Kayk precisa desenvolver para alcançar sua meta profissional de ingressar no mercado de tecnologia e posteriormente atuar em Engenharia de Dados.
+
+##  Desenvolvimento Técnico
+
+| Competência | Ação de desenvolvimento | Prazo | Indicador |
+|---|---|---|---|
+| Python | Realizar exercícios, estudos e projetos utilizando Python | 6 meses | Desenvolver pelo menos 2 projetos |
+| SQL | Estudar consultas, filtros, relacionamentos, agrupamentos e manipulação de dados | 6 meses | Criar pelo menos 1 projeto utilizando SQL |
+| Banco de Dados | Aprender conceitos de tabelas, chaves, relacionamentos e modelagem | 6 a 12 meses | Utilizar um banco de dados em um projeto |
+| Engenharia de Dados | Estudar fundamentos de ETL, ELT, pipelines e processamento de dados | 12 meses | Desenvolver um projeto introdutório de dados |
+| Cloud Computing | Conhecer conceitos básicos de serviços em nuvem aplicados a dados | 12 meses | Concluir pelo menos um curso introdutório |
+| Excel | Aperfeiçoar organização, tratamento e manipulação de dados | 6 a 12 meses | Realizar atividades práticas utilizando Excel |
+
+##  Desenvolvimento Profissional
+
+| Competência | Ação | Prazo | Indicador |
+|---|---|---|---|
+| GitHub | Organizar perfil, criar repositórios e documentar projetos | 6 meses | Ter projetos públicos organizados |
+| LinkedIn | Atualizar informações acadêmicas e objetivo profissional | 6 meses | Perfil alinhado ao objetivo de estágio |
+| Busca por estágio | Preparar currículo, perfil profissional e realizar candidaturas | 6 a 12 meses | Participar de processos seletivos |
+| Comunicação | Desenvolver clareza para apresentar projetos e conhecimentos | Contínuo | Melhor desempenho em apresentações |
+| Organização | Criar rotina de estudos e acompanhar metas | Contínuo | Cumprimento das atividades planejadas |
+| Trabalho em equipe | Participar ativamente de trabalhos e projetos acadêmicos | Contínuo | Participação efetiva nos projetos |
+| Resolução de problemas | Praticar programação e situações relacionadas a dados | Contínuo | Evolução na resolução de exercícios e projetos |
+| Portfólio | Criar e publicar projetos relacionados à tecnologia e dados | Até 12 meses | GitHub com projetos documentados |
+
+##  Formação e Especialização
+
+| Objetivo | Ação | Prazo |
+|---|---|---|
+| Concluir ADS | Manter a evolução acadêmica e concluir as disciplinas do curso | Durante a graduação |
+| Conseguir estágio | Preparar currículo, GitHub e LinkedIn e realizar candidaturas | 6 a 12 meses |
+| Desenvolver experiência profissional | Buscar oportunidades relacionadas à tecnologia e dados | 1 a 3 anos |
+| Aprofundar Engenharia de Dados | Estudar ferramentas, tecnologias e práticas utilizadas no mercado | 1 a 3 anos |
+| Buscar especialização | Realizar cursos e formações complementares na área de dados | 3 a 5 anos ou mais |
+
 
 ---
 
@@ -464,7 +649,21 @@ O Plano de Desenvolvimento Individual (PDI) apresenta ações e metas para desen
 
 *
 
+## Feedback do Integrante 2
 
+**Nome:**
+
+**Pontos positivos:**
+
+*
+
+**Pontos que podem ser melhorados:**
+
+*
+
+**Sugestões:**
+
+*
 ---
 
 # 12. Análise dos Gaps
