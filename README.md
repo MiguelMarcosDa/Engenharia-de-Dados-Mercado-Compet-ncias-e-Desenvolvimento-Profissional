@@ -5,6 +5,8 @@
 * Miguel Marcos Da Silva Gonçalves
 * Kayk Alberto Santana Ferreira
 * Maria Clara Farias Coelho
+* Gabriella Basilio Rocha dos Santos
+* Vitória Mello
 
 ---
 
@@ -426,7 +428,21 @@ O Plano de Desenvolvimento Individual (PDI) apresenta ações e metas para desen
 | Concluir a graduação em ADS | Manter os estudos e cumprir as atividades acadêmicas | 3 anos | Concluir a graduação |
 | Atuar como Engenheiro de Dados Júnior | Desenvolver competências técnicas e buscar experiência profissional | 1 a 3 anos | Conseguir uma oportunidade na área |
 | Fazer pós-graduação em Engenharia de Software | Concluir a graduação e posteriormente realizar uma pós-graduação | 3 a 5 anos ou mais | Iniciar ou concluir uma pós-graduação |
+
+#  Análise dos Gaps
+
+| Competência             | Situação atual                                                            | O que falta desenvolver                                                                 |
+| ----------------------- | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| **Python**              | Já possui conhecimento e certificado de Python                            | Aprofundar Python voltado para manipulação e processamento de dados                     |
+| **SQL**                 | Conhecimento ainda em desenvolvimento                                     | Aprender SQL e praticar consultas e manipulação de dados                                |
+| **Banco de dados**      | Conhecimento ainda em desenvolvimento                                     | Aprofundar bancos relacionais e sua utilização em projetos                              |
+| **Cloud**               | Ainda não possui conhecimento aprofundado                                 | Estudar plataformas como AWS e Azure                                                    |
+| **Git/GitHub**          | Já utiliza GitHub para projetos                                           | Melhorar organização, documentação e apresentação dos projetos                          |
+| **Engenharia de Dados** | Está iniciando os estudos na área                                         | Aprender ETL/ELT, pipelines, modelagem e outras tecnologias da área                     |
+| **Soft Skills**         | Já desenvolve essas competências durante a graduação e trabalhos em grupo | Continuar desenvolvendo comunicação, colaboração, proatividade e resolução de problemas |
+
 ---
+
 #  Análise Individual — Kayk Santana
 
 ##  Informações Profissionais
@@ -732,6 +748,707 @@ O GitHub permanece como uma das principais plataformas para apresentação de pr
 
 ---
 
+#  Análise Individual —  Vitória Mello
+
+# Análise do GitHub
+
+Nome de usuário: vitoriapmelo2012-tech
+
+Identificação do perfil
+
+No momento da análise, meu perfil possui 8 seguidores e sigo 9 usuários.
+Atualmente, não possuo repositórios públicos e tenho 2 itens marcados
+com estrela.
+
+Repositórios públicos
+
+Como ainda não possuo repositórios públicos, não tenho projetos fixados
+ou projetos com estrelas para analisar. Considero esse um dos principais
+pontos que preciso desenvolver. Pretendo começar a publicar projetos
+acadêmicos e pessoais relacionados aos conhecimentos que estou
+adquirindo na graduação, principalmente HTML, JavaScript, Git e Excel.
+
+Seguidores e engajamento
+
+Atualmente, tenho 8 seguidores. Como não possuo dados anteriores, não
+foi possível analisar uma evolução histórica desse número. Meu objetivo
+é aumentar gradualmente minha presença na plataforma, utilizando o
+GitHub como um portfólio para demonstrar minha evolução e meus projetos
+na área de tecnologia.
+
+## Análise do LinkedIn
+
+Cargo-alvo e área de atuação
+
+Atualmente, meu perfil apresenta minha formação como estudante de
+Análise e Desenvolvimento de Sistemas, além dos meus conhecimentos em
+tecnologia e da minha experiência administrativa.
+
+Inicialmente, busco uma oportunidade na área de TI que me permita
+adquirir experiência e ter maior flexibilidade, principalmente por meio
+de um trabalho remoto ou híbrido. No futuro, pretendo direcionar minha
+carreira para a gestão na área de Tecnologia da Informação, unindo meus
+conhecimentos técnicos com minha experiência administrativa e
+habilidades de comunicação.
+
+Stack técnica declarada
+
+Git
+
+HTML
+
+JavaScript
+
+Excel
+
+Também apresento experiência administrativa, comunicação e interesse em
+tecnologia.
+
+Headline profissional
+
+Minha headline atual é: "Estudante de Análise e Desenvolvimento de
+Sistemas | Git · HTML · Javascript · Excel | Experiência
+Administrativa | Comunicação | Interesse em Tecnologia"
+
+Considero que ela apresenta bem minha formação e meus conhecimentos
+atuais. Porém, conforme eu adquirir mais experiência, pretendo
+direcioná-la para a área de atuação que escolher dentro da TI.
+
+Rede profissional
+
+Atualmente, possuo 38 conexões no LinkedIn. Como não tenho dados
+históricos suficientes, não foi possível analisar a evolução da minha
+rede ao longo do tempo. Pretendo ampliar meu networking, principalmente
+com profissionais e empresas relacionadas à tecnologia e gestão.
+
+Atividade e engajamento
+
+Meu perfil ainda pode ser mais ativo profissionalmente. Pretendo
+utilizar o LinkedIn para compartilhar cursos, certificados, projetos
+acadêmicos, aprendizados e conquistas profissionais, fortalecendo minha
+presença na área de tecnologia.
+
+## Análise do Instagram
+
+Usuário: @vihh.melloo
+
+Atualmente, meu Instagram possui 1.159 seguidores, 1.043 seguindo e 1
+publicação. Minha biografia possui um conteúdo pessoal e, atualmente,
+não apresenta informações relacionadas diretamente à minha carreira.
+
+Por isso, considero que meu Instagram possui um posicionamento mais
+pessoal. Pretendo utilizar principalmente o LinkedIn e o GitHub como
+minhas plataformas profissionais, podendo futuramente compartilhar
+também algumas conquistas acadêmicas e profissionais no Instagram.
+
+## Plano de Carreira
+
+Curto prazo --- 6 a 12 meses
+
+Meu principal objetivo inicialmente é conseguir uma oportunidade de
+trabalho na área de tecnologia que ofereça crescimento profissional e
+maior flexibilidade, de preferência em modelo remoto ou híbrido.
+
+Concluir minha graduação.
+
+Aprimorar meus conhecimentos em HTML, JavaScript e Git.
+
+Criar projetos para meu GitHub.
+
+Fazer cursos complementares.
+
+Melhorar meu perfil no LinkedIn.
+
+Ampliar minha rede de contatos profissionais.
+
+Objetivo principal: Ingressar no mercado de tecnologia e adquirir
+experiência em uma posição que permita meu desenvolvimento profissional
+e uma rotina mais flexível.
+
+Médio prazo --- 1 a 3 anos
+
+Depois de adquirir experiência na área, pretendo direcionar minha
+carreira para a gestão em Tecnologia da Informação.
+
+Gestão de projetos.
+
+Liderança.
+
+Organização de processos.
+
+Metodologias ágeis.
+
+Comunicação.
+
+Gestão de equipes.
+
+Meu objetivo é unir os conhecimentos de tecnologia que estou adquirindo
+com minha experiência administrativa e minhas habilidades de
+comunicação.
+
+Objetivo principal: Construir uma carreira que una tecnologia,
+gestão e liderança.
+
+Longo prazo --- 3 a 5 anos ou mais
+
+No longo prazo, pretendo conquistar maior autonomia profissional e,
+futuramente, ter meu próprio negócio na área de Tecnologia da
+Informação. A ideia é utilizar a experiência adquirida em tecnologia e
+gestão para desenvolver uma empresa ou prestar serviços relacionados a
+soluções digitais, gestão de projetos ou processos de TI.
+
+Objetivo principal: Construir uma carreira sólida e, futuramente,
+desenvolver meu próprio negócio na área de tecnologia.
+
+## PDI --- Plano de Desenvolvimento Individual
+
+Objetivo          Ação                Prazo             Indicador
+
+Melhorar          Aprofundar HTML,    6 meses           Projetos
+conhecimentos     JavaScript e Git                      desenvolvidos
+técnicos
+
+Criar portfólio   Publicar projetos   6--12 meses       Repositórios
+no GitHub                             públicos
+
+Melhorar o        Atualizar perfil e  3 meses           Perfil atualizado
+LinkedIn          compartilhar
+experiências
+
+Ampliar           Conectar-me com     Contínuo          Aumento da rede
+networking        profissionais de TI
+
+Desenvolver       Fazer cursos de     1 ano             Cursos concluídos
+gestão            gestão de projetos
+e metodologias
+ágeis
+
+Desenvolver       Participar e        1--3 anos         Experiências de
+liderança         assumir                               liderança
+responsabilidades
+em projetos
+
+Buscar trabalho   Candidatar-me a     6--12 meses       Candidaturas e
+flexível          vagas remotas ou                      entrevistas
+híbridas
+
+## Gaps Identificados
+
+A análise dos meus perfis mostrou alguns pontos que preciso desenvolver.
+
+O principal gap no GitHub é a ausência de projetos públicos. Por isso,
+pretendo construir gradualmente meu portfólio com projetos acadêmicos e
+pessoais.
+
+No LinkedIn, considero importante fortalecer meu posicionamento
+profissional e direcioná-lo, ao longo do tempo, para a área de gestão em
+TI.
+
+Também preciso continuar desenvolvendo minhas habilidades técnicas e
+comportamentais, principalmente em gestão, liderança, comunicação e
+organização.
+
+## Plano de Ação
+
+Criar e manter meu GitHub atualizado.
+
+Continuar desenvolvendo meus conhecimentos técnicos.
+
+Melhorar meu posicionamento no LinkedIn.
+
+Fazer cursos relacionados à tecnologia e gestão.
+
+Ampliar meu networking.
+
+Buscar uma oportunidade de trabalho remoto ou híbrido.
+
+Desenvolver habilidades de liderança e gestão.
+
+Adquirir experiência profissional na área.
+
+No futuro, utilizar essa experiência para desenvolver meu próprio
+negócio em TI.
+
+Síntese da minha trajetória
+
+Graduação em ADS → Primeiro emprego em TI → Desenvolvimento técnico →
+Gestão de TI → Liderança → Negócio próprio em Tecnologia.
+---
+Análise Individual --- Gabriella Basilio Rocha dos Santos
+
+ ## Análise do GitHub
+
+Nome de usuário: shiniixxx
+
+Identificação do perfil
+
+No momento da análise, meu perfil possui 21 seguidores e sigo 6
+usuários. Atualmente, tenho 1 repositório público, 4 itens marcados com
+estrela e não participo de organizações.
+
+Repositórios públicos
+
+Possuo atualmente 1 repositório público. Apesar de já ter iniciado a
+construção do meu GitHub, considero importante aumentar a quantidade de
+projetos publicados para transformar a plataforma em um portfólio
+profissional.
+
+Como tenho interesse em trabalhar com banco de dados, pretendo
+desenvolver projetos relacionados à organização, armazenamento e análise
+de dados, além de projetos que utilizem tecnologias como Java e
+ferramentas voltadas para dados.
+
+Seguidores e engajamento
+
+Atualmente, possuo 21 seguidores e sigo 6 usuários. Como não tenho dados
+históricos suficientes, não foi possível analisar a evolução da
+quantidade de seguidores. Pretendo aumentar gradualmente minha presença
+na plataforma, publicando projetos e interagindo com profissionais e
+estudantes da área de tecnologia.
+
+## Análise do LinkedIn
+
+Cargo-alvo e área de atuação
+
+Atualmente, meu perfil apresenta minha formação como estudante de
+Análise e Desenvolvimento de Sistemas, com interesse em análise de
+dados, programação e área financeira. Meu principal interesse
+profissional é desenvolver minha carreira na área de banco de dados,
+buscando conhecimentos sobre armazenamento, organização, gerenciamento e
+análise de informações. No futuro, também pretendo utilizar minha
+experiência técnica para atuar com gestão em TI.
+
+Stack técnica declarada
+
+Java
+
+Google Sheets
+
+Dados
+
+Finanças
+
+Análise de Dados
+
+Excel
+
+Power BI
+
+Esses conhecimentos demonstram interesse tanto pela parte técnica quanto
+pela utilização de dados para organização e tomada de decisões.
+
+Headline profissional
+
+Minha apresentação atual é:
+
+"Estudante de Tecnologia | Análise de Dados | Excel · Power BI |
+Projetos de Organização e Inteligência de Dados"
+
+Considero que minha headline apresenta de forma clara minha área de
+estudo e meu interesse por dados. Com o desenvolvimento da carreira,
+pretendo direcionar cada vez mais meu perfil para banco de dados e
+gestão de TI.
+
+Rede profissional
+
+Atualmente, possuo 113 conexões no LinkedIn. Pretendo continuar
+ampliando meu networking, principalmente com profissionais de
+tecnologia, dados, banco de dados e gestão.
+
+Atividade e engajamento
+
+Meu próximo passo é aumentar minha atividade na plataforma por meio da
+publicação de projetos, cursos, certificados e aprendizados relacionados
+à minha formação e à área de dados.
+
+ ## Análise do Instagram
+
+Usuário: _.rgabriella
+
+Atualmente, meu Instagram possui 416 seguidores, 391 seguindo e nenhuma
+publicação. A biografia apresenta a frase:
+
+"o todo é mente; o universo é mental."
+
+O perfil possui um posicionamento predominantemente pessoal e não
+apresenta informações diretamente relacionadas à minha carreira.
+Pretendo utilizar principalmente o LinkedIn e o GitHub para construir
+minha presença profissional em tecnologia.
+
+ ## Plano de Carreira
+
+Curto prazo --- 6 a 12 meses
+
+Inicialmente, meu objetivo é conquistar uma oportunidade em TI que me
+permita adquirir experiência e ter maior flexibilidade, dando
+preferência a oportunidades em modelo home office ou híbrido.
+
+Continuar minha graduação em ADS.
+
+Aprofundar Java.
+
+Estudar banco de dados e SQL.
+
+Desenvolver projetos para o GitHub.
+
+Aprimorar Excel e Power BI.
+
+Fazer cursos complementares.
+
+Melhorar meu LinkedIn.
+
+Ampliar meu networking.
+
+Objetivo principal: Ingressar ou me desenvolver no mercado de TI,
+fortalecendo minha formação em dados e banco de dados.
+
+Médio prazo --- 1 a 3 anos
+
+Depois de adquirir experiência, pretendo me especializar em banco de
+dados, desenvolvendo conhecimentos em administração, organização,
+segurança e análise de dados. Também quero desenvolver competências de
+gestão em TI, principalmente em projetos, processos e equipes.
+
+SQL
+
+Modelagem de dados
+
+Bancos de dados relacionais
+
+Gestão de projetos
+
+Metodologias ágeis
+
+Liderança
+
+Análise de dados
+
+Power BI
+
+Objetivo principal: Me especializar em banco de dados e desenvolver
+competências de gestão.
+
+Longo prazo --- 3 a 5 anos ou mais
+
+No longo prazo, pretendo alcançar maior autonomia profissional e
+utilizar minha experiência em tecnologia, dados e gestão para construir
+meu próprio negócio na área de TI, podendo trabalhar com banco de dados,
+análise de dados, organização de informações ou consultoria.
+
+Objetivo principal: Construir uma carreira sólida em tecnologia e
+futuramente desenvolver meu próprio negócio.
+
+ PDI --- Plano de Desenvolvimento Individual
+
+Objetivo           Ação                Prazo             Indicador
+
+Banco de dados     Estudar SQL e       6 meses           Projetos
+modelagem
+
+Conhecimentos      Aprofundar Java,    6--12 meses       Cursos/projetos
+técnicos           Excel e Power BI
+
+Portfólio          Publicar projetos   6--12 meses       Mais repositórios
+no GitHub
+
+Análise de dados   Criar projetos com  1 ano             Projetos publicados
+dados
+
+Networking         Conectar-me com     Contínuo          Crescimento da rede
+profissionais
+
+Trabalho flexível  Candidatar-me a     6--12 meses       Candidaturas/entrevistas
+vagas
+remotas/híbridas
+
+Gestão             Cursos de projetos  1--3 anos         Cursos concluídos
+e métodos ágeis
+
+Liderança          Assumir             1--3 anos         Experiências
+responsabilidades
+em projetos
+
+ Gaps Identificados
+
+No GitHub, já possuo um repositório público, mas considero importante
+aumentar a quantidade e variedade dos projetos, principalmente
+relacionados a banco de dados e análise de dados.
+
+No LinkedIn, meu posicionamento já está direcionado para tecnologia e
+dados. Como próximo passo, pretendo deixar mais clara minha
+especialização em banco de dados.
+
+Também preciso desenvolver competências técnicas e comportamentais,
+principalmente em SQL, modelagem de dados, gestão, liderança e
+comunicação.
+ 
+ ## Plano de Ação
+
+Aprofundar conhecimentos em banco de dados.
+
+Estudar SQL e modelagem de dados.
+
+Desenvolver projetos e manter o GitHub atualizado.
+
+Continuar aprimorando Java, Excel e Power BI.
+
+Fazer cursos de tecnologia e gestão.
+
+Ampliar networking.
+
+Buscar oportunidade remota ou híbrida.
+
+Desenvolver liderança e gestão.
+
+Adquirir experiência na área de dados.
+
+Futuramente transformar meus conhecimentos em um negócio próprio em
+TI.
+
+Síntese da minha trajetória
+
+Graduação em ADS → Primeiro emprego em TI → Especialização em Banco de
+Dados → Gestão de TI → Liderança → Negócio próprio em Tecnologia.
+
+---
+Análise Individual --- Gabriella Basilio Rocha dos Santos
+
+# Análise do GitHub
+
+Nome de usuário: shiniixxx
+
+Identificação do perfil
+
+No momento da análise, meu perfil possui 21 seguidores e sigo 6
+usuários. Atualmente, tenho 1 repositório público, 4 itens marcados com
+estrela e não participo de organizações.
+
+Repositórios públicos
+
+Possuo atualmente 1 repositório público. Apesar de já ter iniciado a
+construção do meu GitHub, considero importante aumentar a quantidade de
+projetos publicados para transformar a plataforma em um portfólio
+profissional.
+
+Como tenho interesse em trabalhar com banco de dados, pretendo
+desenvolver projetos relacionados à organização, armazenamento e análise
+de dados, além de projetos que utilizem tecnologias como Java e
+ferramentas voltadas para dados.
+
+Seguidores e engajamento
+
+Atualmente, possuo 21 seguidores e sigo 6 usuários. Como não tenho dados
+históricos suficientes, não foi possível analisar a evolução da
+quantidade de seguidores. Pretendo aumentar gradualmente minha presença
+na plataforma, publicando projetos e interagindo com profissionais e
+estudantes da área de tecnologia.
+
+# Análise do LinkedIn
+
+Cargo-alvo e área de atuação
+
+Atualmente, meu perfil apresenta minha formação como estudante de
+Análise e Desenvolvimento de Sistemas, com interesse em análise de
+dados, programação e área financeira. Meu principal interesse
+profissional é desenvolver minha carreira na área de banco de dados,
+buscando conhecimentos sobre armazenamento, organização, gerenciamento e
+análise de informações. No futuro, também pretendo utilizar minha
+experiência técnica para atuar com gestão em TI.
+
+Stack técnica declarada
+
+Java
+
+Google Sheets
+
+Dados
+
+Finanças
+
+Análise de Dados
+
+Excel
+
+Power BI
+
+Esses conhecimentos demonstram interesse tanto pela parte técnica quanto
+pela utilização de dados para organização e tomada de decisões.
+
+Headline profissional
+
+Minha apresentação atual é:
+
+"Estudante de Tecnologia | Análise de Dados | Excel · Power BI |
+Projetos de Organização e Inteligência de Dados"
+
+Considero que minha headline apresenta de forma clara minha área de
+estudo e meu interesse por dados. Com o desenvolvimento da carreira,
+pretendo direcionar cada vez mais meu perfil para banco de dados e
+gestão de TI.
+
+Rede profissional
+
+Atualmente, possuo 113 conexões no LinkedIn. Pretendo continuar
+ampliando meu networking, principalmente com profissionais de
+tecnologia, dados, banco de dados e gestão.
+
+Atividade e engajamento
+
+Meu próximo passo é aumentar minha atividade na plataforma por meio da
+publicação de projetos, cursos, certificados e aprendizados relacionados
+à minha formação e à área de dados.
+
+# Análise do Instagram
+
+Usuário: _.rgabriella
+
+Atualmente, meu Instagram possui 416 seguidores, 391 seguindo e nenhuma
+publicação. A biografia apresenta a frase:
+
+"o todo é mente; o universo é mental."
+
+O perfil possui um posicionamento predominantemente pessoal e não
+apresenta informações diretamente relacionadas à minha carreira.
+Pretendo utilizar principalmente o LinkedIn e o GitHub para construir
+minha presença profissional em tecnologia.
+
+# Plano de Carreira
+
+Curto prazo --- 6 a 12 meses
+
+Inicialmente, meu objetivo é conquistar uma oportunidade em TI que me
+permita adquirir experiência e ter maior flexibilidade, dando
+preferência a oportunidades em modelo home office ou híbrido.
+
+Continuar minha graduação em ADS.
+
+Aprofundar Java.
+
+Estudar banco de dados e SQL.
+
+Desenvolver projetos para o GitHub.
+
+Aprimorar Excel e Power BI.
+
+Fazer cursos complementares.
+
+Melhorar meu LinkedIn.
+
+Ampliar meu networking.
+
+Objetivo principal: Ingressar ou me desenvolver no mercado de TI,
+fortalecendo minha formação em dados e banco de dados.
+
+Médio prazo --- 1 a 3 anos
+
+Depois de adquirir experiência, pretendo me especializar em banco de
+dados, desenvolvendo conhecimentos em administração, organização,
+segurança e análise de dados. Também quero desenvolver competências de
+gestão em TI, principalmente em projetos, processos e equipes.
+
+SQL
+
+Modelagem de dados
+
+Bancos de dados relacionais
+
+Gestão de projetos
+
+Metodologias ágeis
+
+Liderança
+
+Análise de dados
+
+Power BI
+
+Objetivo principal: Me especializar em banco de dados e desenvolver
+competências de gestão.
+
+Longo prazo --- 3 a 5 anos ou mais
+
+No longo prazo, pretendo alcançar maior autonomia profissional e
+utilizar minha experiência em tecnologia, dados e gestão para construir
+meu próprio negócio na área de TI, podendo trabalhar com banco de dados,
+análise de dados, organização de informações ou consultoria.
+
+Objetivo principal: Construir uma carreira sólida em tecnologia e
+futuramente desenvolver meu próprio negócio.
+
+# PDI --- Plano de Desenvolvimento Individual
+
+Objetivo           Ação                Prazo             Indicador
+
+Banco de dados     Estudar SQL e       6 meses           Projetos
+modelagem
+
+Conhecimentos      Aprofundar Java,    6--12 meses       Cursos/projetos
+técnicos           Excel e Power BI
+
+Portfólio          Publicar projetos   6--12 meses       Mais repositórios
+no GitHub
+
+Análise de dados   Criar projetos com  1 ano             Projetos publicados
+dados
+
+Networking         Conectar-me com     Contínuo          Crescimento da rede
+profissionais
+
+Trabalho flexível  Candidatar-me a     6--12 meses       Candidaturas/entrevistas
+vagas
+remotas/híbridas
+
+Gestão             Cursos de projetos  1--3 anos         Cursos concluídos
+e métodos ágeis
+
+Liderança          Assumir             1--3 anos         Experiências
+responsabilidades
+em projetos
+
+# Gaps Identificados
+
+No GitHub, já possuo um repositório público, mas considero importante
+aumentar a quantidade e variedade dos projetos, principalmente
+relacionados a banco de dados e análise de dados.
+
+No LinkedIn, meu posicionamento já está direcionado para tecnologia e
+dados. Como próximo passo, pretendo deixar mais clara minha
+especialização em banco de dados.
+
+Também preciso desenvolver competências técnicas e comportamentais,
+principalmente em SQL, modelagem de dados, gestão, liderança e
+comunicação.
+
+# Plano de Ação
+
+Aprofundar conhecimentos em banco de dados.
+
+Estudar SQL e modelagem de dados.
+
+Desenvolver projetos e manter o GitHub atualizado.
+
+Continuar aprimorando Java, Excel e Power BI.
+
+Fazer cursos de tecnologia e gestão.
+
+Ampliar networking.
+
+Buscar oportunidade remota ou híbrida.
+
+Desenvolver liderança e gestão.
+
+Adquirir experiência na área de dados.
+
+Futuramente transformar meus conhecimentos em um negócio próprio em
+TI.
+
+Síntese da minha trajetória
+
+Graduação em ADS → Primeiro emprego em TI → Especialização em Banco de
+Dados → Gestão de TI → Liderança → Negócio próprio em Tecnologia.
+
+---
+
 # 11. Feedback dos Colegas
 
 ## Miguel Feedback Para Seus Colegas
@@ -768,7 +1485,43 @@ O GitHub permanece como uma das principais plataformas para apresentação de pr
 **Sugestões:**
 
 * Continuar estudando Python, iniciar os estudos em SQL e criar projetos para fortalecer o GitHub e o LinkedIn.
+  
+  ## Terceiro Feedback
+  
+**Para:** Vitória Mello
 
+**Pontos positivos:**
+
+- Demonstra interesse em crescer na área de tecnologia e possui objetivos profissionais bem definidos.
+- Apresenta um plano de carreira organizado e metas para desenvolver sua experiência.
+
+**Pontos que podem ser melhorados:**
+
+- Aumentar a quantidade de projetos no GitHub e fortalecer sua presença profissional.
+
+**Sugestões:**
+
+- Criar projetos utilizando HTML, JavaScript e Git.
+- Manter o GitHub e LinkedIn atualizados com seus novos aprendizados.
+- 
+  ### Quarto Feedback
+  
+**Para:** Gabriella Basilio
+
+**Pontos positivos:**
+
+- Demonstra interesse pela área de dados e possui objetivos claros para sua carreira.
+- Já apresenta conhecimentos em Java, Excel e Power BI.
+
+**Pontos que podem ser melhorados:**
+
+- Desenvolver mais projetos relacionados a banco de dados e análise de dados.
+
+**Sugestões:**
+
+- Estudar SQL e modelagem de dados.
+- Criar projetos práticos e utilizá-los para fortalecer o GitHub e o LinkedIn.
+  
 ---
 
 ## Kayk Alberto Feedback Para Seus Colegas
@@ -811,10 +1564,46 @@ Priorizar o aprendizado avançado em SQL nos próximos meses, focando em consult
 
 - Destacar Python, SQL e Engenharia de Dados nos perfis profissionais.
 - Criar projetos práticos relacionados à área e manter o LinkedIn ativo.
+  
+### Terceiro Feedback
+
+**Nome:** Vitória Mello
+
+**Pontos positivos:**
+
+- Demonstra vontade de entrar no mercado de tecnologia e desenvolver novas habilidades.
+- Seu PDI apresenta metas e prazos para acompanhar sua evolução.
+
+**Pontos que podem ser melhorados:**
+
+- Desenvolver uma presença maior no GitHub e ampliar o portfólio.
+
+**Sugestões:**
+
+- Criar projetos durante a graduação e publicar no GitHub.
+- Buscar cursos complementares e compartilhar os resultados no LinkedIn.
+
+ ### Quarto Feedback
+ 
+*Nome:** Gabriella Basilio
+
+**Pontos positivos:**
+
+- Possui uma boa direção profissional voltada para dados e banco de dados.
+- Apresenta metas de desenvolvimento técnico e profissional bem definidas.
+
+**Pontos que podem ser melhorados:**
+
+- Aumentar a quantidade e variedade de projetos no GitHub.
+
+**Sugestões:**
+
+- Praticar SQL e modelagem de dados por meio de projetos.
+- Continuar desenvolvendo conhecimentos em Power BI e Java.
 
 ---
 
-Maria Clara Feedback Para Seus Colegas
+## Maria Clara Feedback Para Seus Colegas
 
 **Nome:kayk Alberto **
 
@@ -830,8 +1619,7 @@ Maria Clara Feedback Para Seus Colegas
 - Criar 3 primeiros repos com README.
 - Postar no LinkedIn sobre os estudos de Python/SQL.
 
----
-*Segundo Feedback
+### Segundo Feedback
 
 **Nome:Miguel Marcos**
 
@@ -847,44 +1635,125 @@ Maria Clara Feedback Para Seus Colegas
 - Atualizar headline com: Engenharia de Dados | Python | SQL.
 - Criar README principal no GitHub e melhorar a documentação dos projetos.
 
+### Terceiro Feedback
+**Nome:** Vitória Mello
+
+**Pontos positivos:**
+
+- Apresenta objetivos claros para sua carreira e demonstra interesse em crescer profissionalmente.
+- Possui um plano de carreira organizado e bem estruturado.
+
+**Pontos que podem ser melhorados:**
+
+- Fortalecer o portfólio com projetos relacionados aos conhecimentos adquiridos.
+
+**Sugestões:**
+
+- Criar projetos utilizando HTML, JavaScript e Git.
+- Manter o LinkedIn atualizado com cursos, projetos e conquistas.
+
+### Quarto Feedback
+
+**Nome:** Gabriella Basilio
+
+**Pontos positivos:**
+
+- Demonstra interesse pela área de dados e possui um objetivo profissional bem definido.
+- Já possui conhecimentos em Java, Excel e Power BI.
+
+**Pontos que podem ser melhorados:**
+
+- Desenvolver mais projetos práticos relacionados a banco de dados.
+
+**Sugestões:**
+
+- Continuar estudando SQL e modelagem de dados.
+- Publicar novos projetos no GitHub para fortalecer o portfólio.
 ---
-# 12. Análise dos Gaps
 
-| Competência             | Situação atual                                                            | O que falta desenvolver                                                                 |
-| ----------------------- | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| **Python**              | Já possui conhecimento e certificado de Python                            | Aprofundar Python voltado para manipulação e processamento de dados                     |
-| **SQL**                 | Conhecimento ainda em desenvolvimento                                     | Aprender SQL e praticar consultas e manipulação de dados                                |
-| **Banco de dados**      | Conhecimento ainda em desenvolvimento                                     | Aprofundar bancos relacionais e sua utilização em projetos                              |
-| **Cloud**               | Ainda não possui conhecimento aprofundado                                 | Estudar plataformas como AWS e Azure                                                    |
-| **Git/GitHub**          | Já utiliza GitHub para projetos                                           | Melhorar organização, documentação e apresentação dos projetos                          |
-| **Engenharia de Dados** | Está iniciando os estudos na área                                         | Aprender ETL/ELT, pipelines, modelagem e outras tecnologias da área                     |
-| **Soft Skills**         | Já desenvolve essas competências durante a graduação e trabalhos em grupo | Continuar desenvolvendo comunicação, colaboração, proatividade e resolução de problemas |
+## Vitória Mello Feedback Para Seus Colegas
 
+*Nome: Miguel Marcos*
 
-### Principais Gaps
+*Pontos positivos:*
 
-* Desenvolver conhecimentos em SQL e bancos de dados.
-* Aprender conceitos e ferramentas específicas de Engenharia de Dados, como ETL/ELT e pipelines.
-* Desenvolver conhecimentos em computação em nuvem, principalmente AWS e Azure.
-* Aumentar a experiência prática por meio de projetos relacionados à Engenharia de Dados.
+Já possui projetos publicados no GitHub e demonstra iniciativa na área de programação.
+Tem um objetivo profissional definido em Engenharia de Dados.
+Está desenvolvendo conhecimentos em Python, Git, GitHub e SQL.
+
+*Pontos que podem ser melhorados:*
+
+Direcionar mais os projetos do GitHub para Engenharia de Dados.
+Melhorar a apresentação do perfil no LinkedIn, destacando seu objetivo profissional.
+Aumentar a frequência de conteúdos e interações nas redes profissionais.
+
+*Sugestões:*
+
+Aprofundar os estudos em Python, SQL e bancos de dados.
+Criar projetos envolvendo ETL, pipelines e análise de dados.
+Buscar uma oportunidade de estágio para adquirir experiência prática na área.
+
+### Segundo feedback
+*Nome: Maria Clara*
+
+*Pontos positivos:*
+
+Demonstra dedicação aos estudos e possui um objetivo profissional bem definido.
+Sua experiência na área financeira pode contribuir para sua capacidade analítica.
+
+*Pontos que podem ser melhorados:*
+
+Desenvolver mais projetos voltados para Engenharia de Dados.
+Fortalecer a presença profissional no GitHub e LinkedIn.
+
+*Sugestões:*
+
+Continuar estudando Python e iniciar o aprendizado de SQL.
+Criar projetos práticos para fortalecer o portfólio.
+Manter o LinkedIn mais ativo, compartilhando sua evolução na área de tecnologia.
+
+### Terceiro Feedback
+*Nome: Gabriella*
+
+*Pontos positivos:*
+
+Possui um objetivo profissional bem definido na área de banco de dados.
+Demonstra interesse em tecnologia, dados e gestão.
+
+*Pontos que podem ser melhorados:*
+
+Desenvolver mais projetos práticos e fortalecer o GitHub.
+Aprofundar conhecimentos em SQL e modelagem de dados.
+
+*Sugestões:*
+
+Criar projetos relacionados a banco de dados e análise de dados.
+Manter o LinkedIn e GitHub atualizados.
+Buscar oportunidades de trabalho remoto ou híbrido na área de TI.
+
+### Quarto Feedback
+*Nome: Kaike*
+
+*Pontos positivos:*
+
+Possui um objetivo profissional bem definido em Engenharia de Dados.
+Demonstra interesse e comprometimento com os estudos.
+
+*Pontos que podem ser melhorados:*
+
+Desenvolver mais projetos práticos e fortalecer o GitHub.
+Aprofundar os conhecimentos em SQL e Banco de Dados.
+
+*Sugestões:*
+
+Criar projetos em Python e SQL para montar um portfólio.
+Organizar melhor o GitHub e LinkedIn.
+Buscar oportunidades de estágio.
 
 ---
 
-# 13. Conclusão Individual
 
-Atualmente, sou estudante do 2º semestre de Análise e Desenvolvimento de Sistemas e tenho como objetivo profissional atuar na área de Engenharia de Dados.
-
-Durante minha formação, venho desenvolvendo conhecimentos em programação, principalmente em Python, além de utilizar o GitHub para desenvolver e apresentar projetos. Também concluí um curso de Python pelo Santander, contribuindo para o desenvolvimento da minha base técnica.
-
-A partir da análise das vagas de Engenharia de Dados Júnior, identifiquei que ainda preciso desenvolver conhecimentos em SQL, bancos de dados, computação em nuvem e tecnologias específicas da Engenharia de Dados, como ETL/ELT e pipelines de dados.
-
-Para os próximos anos, meu objetivo é continuar desenvolvendo essas competências, criar projetos práticos, melhorar meus perfis profissionais, buscar uma oportunidade de estágio e adquirir experiência na área de tecnologia.
-
-A longo prazo, pretendo consolidar minha carreira como Engenheiro de Dados e realizar uma pós-graduação em Engenharia de Software, buscando ampliar minha formação e conhecimentos profissionais.
-
----
-
-# 14. Conclusão Geral do Grupo
+# 12 Conclusão Geral do Grupo
 
 * A realização deste trabalho permitiu analisar o mercado de trabalho na área de Engenharia de Dados e compreender as principais competências necessárias para iniciar uma carreira profissional na área.
 
@@ -901,7 +1770,7 @@ A longo prazo, o objetivo do grupo é adquirir experiência profissional e conso
 Portanto, o trabalho possibilitou compreender melhor a relação entre a formação acadêmica, as exigências do mercado de trabalho e os objetivos profissionais dos integrantes. Os planos de carreira e PDIs estabelecidos servirão como orientação para o desenvolvimento das competências necessárias para alcançar os objetivos profissionais definidos pelo grupo.
 
 
-## 14.1 Síntese dos Planos de Carreira
+## 13 Síntese dos Planos de Carreira
 
 >Os integrantes do grupo possuem como objetivo profissional desenvolver suas carreiras na área de Tecnologia da Informação, com foco na Engenharia de Dados. Apesar de cada integrante estar em um momento diferente de sua formação e possuir objetivos específicos de desenvolvimento, os planos de carreira apresentam pontos em comum.
 
@@ -918,7 +1787,7 @@ De forma geral, os planos de carreira estão organizados em diferentes períodos
 ---
 
 
-## 14.2 Comparação com o Mercado
+## 14.1 Comparação com o Mercado
 
 >A análise das vagas de Engenharia de Dados Júnior permitiu comparar as competências exigidas pelo mercado com os conhecimentos que os integrantes do grupo possuem atualmente.
 
@@ -934,7 +1803,7 @@ Dessa forma, os planos de carreira e os PDIs dos integrantes foram elaborados co
 
 ---
 
-## 14.3 Principais Gaps do Grupo
+## 14.2 Principais Gaps do Grupo
 
 A partir da comparação entre os conhecimentos atuais dos integrantes e as competências identificadas nas vagas de Engenharia de Dados Júnior, foram identificados alguns pontos que precisam ser desenvolvidos pelo grupo.
 
@@ -948,7 +1817,7 @@ Os principais gaps identificados são:
 
 ---
 
-## 14.4 Plano de Ação
+## 14.3 Plano de Ação
 
 Com base nos principais gaps identificados, o grupo definiu ações para desenvolver as competências necessárias para atuar na área de Engenharia de Dados.
 
