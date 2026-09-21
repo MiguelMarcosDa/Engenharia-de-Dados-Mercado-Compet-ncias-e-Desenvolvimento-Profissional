@@ -1506,7 +1506,7 @@ Dados → Gestão de TI → Liderança → Negócio próprio em Tecnologia.
 - 
   ### Quarto Feedback
   
-**Para:** Gabriella Basilio
+**Para:Gabriella Basilio**
 
 **Pontos positivos:**
 
@@ -1536,7 +1536,7 @@ Análise realista do momento atual das redes sociais e do portfólio, identifica
 
 **Pontos que podem ser melhorados:**
 
-*A maioria dos projetos e publicações atuais foca em desenvolvimento geral ou IA, sem destacar competências centrais da Engenharia de Dados.
+A maioria dos projetos e publicações atuais foca em desenvolvimento geral ou IA, sem destacar competências centrais da Engenharia de Dados.
 Faltam termos-chave de Engenharia de Dados na manchete do LinkedIn e o perfil do GitHub ainda não possui um README de apresentação.
 O estudo de SQL precisa de mais prioridade no PDI, pois é uma competência fundamental para a área ao lado de Python.
 
