@@ -1749,9 +1749,85 @@ Aprofundar os conhecimentos em SQL e Banco de Dados.
 Criar projetos em Python e SQL para montar um portfólio.
 Organizar melhor o GitHub e LinkedIn.
 Buscar oportunidades de estágio.
-
 ---
 
+## Gabriella Basilio Feedback Para Seus Colegas
+
+*Nome: miguel*
+
+*Pontos positivos:*
+
+* GitHub apresenta projetos variados e demonstra prática em programação.
+* Objetivo profissional voltado à Engenharia de Dados está definido.
+
+*Pontos que podem ser melhorados:*
+
+* Perfil do LinkedIn ainda destaca mais a formação do que o objetivo profissional.
+* Instagram possui pouca conexão com a área de tecnologia.
+
+*Sugestões:*
+
+* Destacar Engenharia de Dados, Python e SQL no LinkedIn.
+* Adicionar projetos e conteúdos técnicos para fortalecer o portfólio.
+
+  ### Segundo Feedback
+
+*Nome: Maria Clara*
+
+Pontos positivos:
+
+Perfil demonstra uma transição profissional bem definida para a área de tecnologia.
+LinkedIn apresenta experiência financeira que pode agregar à futura atuação com dados.
+
+Pontos que podem ser melhorados:
+
+GitHub ainda possui poucos projetos e não conta com README de apresentação.
+LinkedIn possui pouca atividade e ainda não destaca suficientemente Engenharia de Dados.
+
+Sugestões:
+
+Adicionar projetos de Python, SQL e bancos de dados ao GitHub.
+Atualizar o LinkedIn com palavras-chave de Engenharia de Dados e compartilhar a evolução dos estudos.  
+
+### Terceiro Feedback
+
+*Nome:Kayk Santana*
+
+*Pontos positivos:*
+
+* Objetivo profissional está direcionado para estágio em Tecnologia/Engenharia de Dados.
+* Já possui conhecimentos iniciais em Python, Excel e GitHub.
+
+*Pontos que podem ser melhorados:*
+
+* GitHub ainda não possui repositórios para demonstrar os conhecimentos.
+* LinkedIn precisa de maior presença e desenvolvimento da rede profissional.
+
+*Sugestões:*
+
+* Criar projetos simples em Python e SQL para iniciar o portfólio.
+* Manter o LinkedIn atualizado e compartilhar a evolução dos estudos.
+
+### Quarto Feedback
+
+ *Nome:Vitória Mello*
+
+Pontos positivos:
+
+Objetivo profissional combina tecnologia com experiência administrativa.
+Headline do LinkedIn já apresenta conhecimentos técnicos e experiência profissional.
+
+Pontos que podem ser melhorados:
+
+GitHub ainda não possui projetos públicos.
+LinkedIn possui uma rede pequena e pouca atividade profissional.
+
+Sugestões:
+
+Criar projetos em HTML, JavaScript e Git e publicá-los no GitHub.
+Fortalecer o LinkedIn com publicações, cursos e conteúdos sobre tecnologia e gestão.
+
+----
 
 # 12 Conclusão Geral do Grupo
 
