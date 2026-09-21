@@ -615,22 +615,22 @@ O Plano de Desenvolvimento Individual tem como objetivo organizar as principais 
 
 # 11. Feedback dos Colegas
 
-## Feedback do Integrante 1
+## Miguel Feedback
 
-**Nome:**
+**Nome:** Kayk
 
 **Pontos positivos:**
 
-*
+* Demonstra comprometimento e interesse em aprender sobre Engenharia de Dados.
+* Participa das atividades e busca desenvolver seus conhecimentos.
 
 **Pontos que podem ser melhorados:**
 
-*
+* Desenvolver mais conhecimentos técnicos e ganhar experiência prática com projetos.
 
 **Sugestões:**
 
-*
-
+* Continuar estudando Python, SQL e Banco de Dados e começar a criar projetos para o GitHub.
 ---
 
 ## Feedback do Integrante 2
@@ -649,23 +649,32 @@ O Plano de Desenvolvimento Individual tem como objetivo organizar as principais 
 
 *
 
-## Feedback do Integrante 2
+---
 
-**Nome:**
+## Kayk Feedback
+
+**Nome:Miguel**
 
 **Pontos positivos:**
 
-*
+*Definição clara do objetivo profissional em Engenharia de Dados logo no início da faculdade de ADS, o que facilita o direcionamento dos estudos.
+Presença de repositórios ativos no GitHub com interações da comunidade, como no projeto barbershop-ia, demonstrando iniciativa prática.
+Análise realista do momento atual das redes sociais e do portfólio, identificando com precisão a necessidade de evoluir a presença digital.
 
 **Pontos que podem ser melhorados:**
 
-*
+*A maioria dos projetos e publicações atuais foca em desenvolvimento geral ou IA, sem destacar competências centrais da Engenharia de Dados.
+Faltam termos-chave de Engenharia de Dados na manchete do LinkedIn e o perfil do GitHub ainda não possui um README de apresentação.
+O estudo de SQL precisa de mais prioridade no PDI, pois é uma competência fundamental para a área ao lado de Python.
+
 
 **Sugestões:**
 
-*
----
+*Construir um projeto de ETL do zero no GitHub, cobrindo a coleta de dados, tratamento em Python e armazenamento em um banco relacional como PostgreSQL ou SQLite.
+Atualizar a manchete do LinkedIn com termos da área e criar um README.md no perfil do GitHub destacando os estudos atuais em dados.
+Priorizar o aprendizado avançado em SQL nos próximos meses, focando em consultas relacionais, agrupamentos e modelagem.
 
+---
 # 12. Análise dos Gaps
 
 | Competência             | Situação atual                                                            | O que falta desenvolver                                                                 |
