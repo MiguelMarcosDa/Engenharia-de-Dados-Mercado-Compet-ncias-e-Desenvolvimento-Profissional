@@ -5,8 +5,8 @@
 * Miguel Marcos Da Silva Gonçalves
 * Kayk Alberto Santana Ferreira
 * Maria Clara Farias Coelho
-* Gabriella Basilio Rocha dos Santos
 * Vitória Mello
+* Gabriella Basilio Rocha dos Santos
 
 ---
 
