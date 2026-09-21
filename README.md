@@ -3,6 +3,7 @@
 ## Integrantes
 
 * Miguel Marcos Da Silva Gonçalves
+* Kayk Alberto Santana Ferreira
 
 ---
 
@@ -504,7 +505,19 @@ A longo prazo, pretendo consolidar minha carreira como Engenheiro de Dados e rea
 
 # 14. Conclusão Geral do Grupo
 
-> *
+* A realização deste trabalho permitiu analisar o mercado de trabalho na área de Engenharia de Dados e compreender as principais competências necessárias para iniciar uma carreira profissional na área.
+
+A partir da análise das vagas pesquisadas, foi possível identificar que as empresas procuram profissionais com conhecimentos em Python, SQL, bancos de dados, ETL/ELT, pipelines de dados, Git, computação em nuvem e outras tecnologias relacionadas ao tratamento e processamento de dados. Além das competências técnicas, também são valorizadas características como trabalho em equipe, colaboração, proatividade, capacidade analítica, resolução de problemas e disposição para aprender.
+
+No grupo, Miguel Marcos e Kayk estão em formação em Análise e Desenvolvimento de Sistemas e possuem como objetivo desenvolver suas carreiras na área de Engenharia de Dados. Apesar de estamos em fase inicial da formação profissional, ambos possuem planos de desenvolvimento voltados à construção de conhecimentos técnicos, realização de projetos práticos e preparação para oportunidades de estágio e entrada no mercado de trabalho.
+
+A análise dos planos de carreira e dos Planos de Desenvolvimento Individual (PDI) permitiu identificar competências que já estão sendo desenvolvidas e outras que ainda precisam ser aprofundadas. Entre os principais pontos de desenvolvimento estão SQL, bancos de dados, ETL/ELT, pipelines de dados, computação em nuvem e conhecimentos específicos de Engenharia de Dados.
+
+Dessa forma, os integrantes definiram como principais ações a realização de cursos, desenvolvimento de projetos práticos, organização dos perfis profissionais no GitHub e LinkedIn, participação em processos seletivos e busca por oportunidades de estágio.
+
+A longo prazo, o objetivo do grupo é adquirir experiência profissional e consolidar uma carreira na área de Engenharia de Dados, acompanhando a evolução das tecnologias utilizadas pelo mercado e mantendo uma rotina de aprendizado contínuo.
+
+Portanto, o trabalho possibilitou compreender melhor a relação entre a formação acadêmica, as exigências do mercado de trabalho e os objetivos profissionais dos integrantes. Os planos de carreira e PDIs estabelecidos servirão como orientação para o desenvolvimento das competências necessárias para alcançar os objetivos profissionais definidos pelo grupo.
 
 
 ## 14.1 Síntese dos Planos de Carreira
